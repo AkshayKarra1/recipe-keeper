@@ -1,2 +1,2 @@
 # recipe-keeper
-recipe keeper
+recipe keeper details
